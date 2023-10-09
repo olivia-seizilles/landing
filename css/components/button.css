@@ -1,0 +1,13 @@
+.btn-purple {
+	background-color: rgb(200,100,250);
+	color: white;
+	padding: 10px;
+	border-radius: 8px;
+	box-shadow: 5px 5px 20px rgba(124,129,173,0.3);
+	font-family: 'Nunito', sans-serif;
+}
+
+.btn-purple:hover{
+	background-color: rgb(100,0,100);
+	text-decoration: underline;
+}
